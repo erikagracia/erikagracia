@@ -1,0 +1,120 @@
+HTML CSSResult Skip Results Iframe
+EDIT ON
+body {
+  position: relative;
+  margin: 0;
+}
+.sect {
+  width: 60%;
+  
+  min-height: 1000px;
+ display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#sect1,
+#sect3 {
+  background-color: #3333337d;
+  color: #fff;
+}
+#sect2 {
+  color: #fff;
+}
+#sect4 {
+  color: #fff;
+}
+#sect5 {
+  color: #fff;
+   padding-top: 80rem;
+}
+#sect6 {
+  color: #fff;
+  padding-top: 120rem;
+}
+#sect7 {
+	
+  color: #fff;
+  padding-top: 160rem;
+}
+#sect8 {
+  color: #fff;
+   padding-top: 200rem;
+}
+#sect9 {
+  color: #fff;
+  padding-top: 240rem;
+}
+#sect10 {
+	
+  color: #fff;
+  padding-top: 280rem;
+}
+#sect11 {
+  color: #fff;
+   padding-top: 320rem;
+}
+#sect12 {
+  color: #fff;
+   padding-top: 70rem;
+}
+#sect13 {
+  color: #fff;
+   padding-top: 110rem;
+}
+#sect14 {
+  color: #fff;
+   padding-top: 150rem;
+}
+#sect15 {
+  color: #fff;
+   padding-top: 190rem;
+}
+#sect16 {
+  color: #fff;
+   padding-top: 260rem;
+}
+#sect17 {
+  color: #fff;
+   padding-top: 300rem;
+}
+#sect18 {
+  color: #fff;
+   padding-top: 340rem;
+}
+
+video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 105%;
+  min-height: 100%;
+  transform: translateX(calc((100% - 100vw) / 2));
+  z-index: -2;
+}
+h1 {
+  margin: 5;
+  padding-top: 3rem;
+  font-size: 40px;
+}
+h3 {
+  margin: 0;
+  padding-top: 3rem;
+  padding-left: 2rem;
+  font-size: 20px;
+}
+
+a:visited{
+	color:white;
+}
+.salto1{
+	padding:150px;
+}
+.salto2{
+	padding:355px;
+}
+.salto3{
+	padding:1000px;
+}
